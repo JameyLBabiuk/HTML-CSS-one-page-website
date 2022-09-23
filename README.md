@@ -14,7 +14,7 @@ Space Station themed HTML/CSS One Page Website
   </ul>
   <p>The Voyager Space Station</p>
   <h1>Gallery</h1>
-  <p><img src="./SSW_Thumbs/thumbnail_1.jpg" alt="A manned rocketship continues its vertical ascent after breaking through heavy cloud cover"></p>
+  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_1.jpg" alt="A manned rocketship continues its vertical ascent after breaking through heavy cloud cover"></p>
   <h3>Click to Enlarge</h3>
   <p>We have several space launches departing daily - book your flight today!</p>
   <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_2.jpg" alt="Voyager Station - The World's First Space Hotel, opening 2027 | Architectural Digest"></p>
