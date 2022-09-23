@@ -3,7 +3,7 @@ Space Station themed HTML/CSS One Page Website
 <!DOCTYPE html>
 <html>
 <head>
-  <title>The Voyager Space Station | Resort</title>
+<The Voyager Space Station | Resort>
 </head>
 <body>
   <ul>
