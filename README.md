@@ -13,33 +13,6 @@ Space Station themed HTML/CSS One Page Website
     <li>RESERVATIONS</li>
   </ul>
   <p>The Voyager Space Station</p>
-  <h1>Gallery</h1>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_1.jpg" alt="A manned rocketship continues its vertical ascent after breaking through heavy cloud cover"></p>
-  <h3>Click to Enlarge</h3>
-  <p>We have several space launches departing daily - book your flight today!</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_2.jpg" alt="Voyager Station - The World's First Space Hotel, opening 2027 | Architectural Digest"></p>
-  <h3>Click to Enlarge</h3>
-  <p>Voyager Station is the world's first Space Hotel, opening 2027</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_3.jpg" alt="Typical space station accommodations are similar to traditional terrestrial hotels, but offer panoramic views of Earth"></p>
-  <h3>Click to Enlarge</h3>
-  <p>Let each day begin with stunningly beautiful, paroramic views of Earth</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_4.jfif" alt="A horizontal wireframe image of the Voyager Station"></p>
-  <h3>Click to Enlarge</h3>
-  <p>Diligently designed to enhance your safety, comfort, & convenience</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_5.jpg" alt="A highly detailed, interior rendering of a starship's conference room/observation lounge, by MCH of cgtrader.com"></p>
-  <h3>Click to Enlarge</h3>
-  <p>Premium lounge areas await your arrival, outfitted with the advanced surroundings you deserve</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_6.jpg" alt="A 3D model of a future space station, courtesy of done3d.com"></p>
-  <h3>Click to Enlarge</h3>
-  <p>Whether stationary or mobile, each space station in our fleet can easily fulfill your dreams</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_7.jpg" alt="A futuristic 2100 ISS concept, by Madalin Croitoru, Lead Artist @ EVL PPY"></p>
-  <h3>Click to Enlarge</h3>
-  <p>Reserve your spacious accommodations aboard our newest, Year 2100 space station now</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_8.jpg" alt="A futuristic space station, designed &amp; rendered with Cinema 4D R16, by Johann deLestree"></p>
-  <h3>Click to Enlarge</h3>
-  <p>Redefining your perceptions of luxury, serenity, & uniqueness, then surpassing those expectations</p>
-  <p><img src="./SSW_Images/SSW_Thumbs/thumbnail_9.jpg" alt="A 3D visualization of a rotating orbital space station, by Kresimir Jelusic"></p>
-  <h3>Click to Enlarge</h3>
   <p>Explore the wonders of space aboard these fascinating wonders of mankind</p>
   <h1>Reservations</h1>
   <h2>Your adventure is just around the moon. Reserve your flight today!</h2>
